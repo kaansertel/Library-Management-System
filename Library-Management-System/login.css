@@ -1,0 +1,47 @@
+body{
+        
+    background: url(kutuphane.jpg);
+    
+}
+
+h1{
+    width: 500px;
+    padding: 10px;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 70px;
+    text-align: center;
+    font-family:cursive;
+    background-color: #eec591; 
+}
+
+h2{
+    font-family:cursive;
+    font-size: 30px;   
+
+}
+.form{
+    width: 400px;
+    padding: 10px;
+    border: solid thin #ddd;
+    margin: auto;
+    margin-top: 150px;
+    text-align: center;
+    border-radius: 25px;
+    background-color: #eec691d2;
+
+}
+
+.form input {
+    padding: 10px;
+    width: 200px;
+    margin-top: 10px;
+    border-radius : 30px;
+    font-style: italic; 
+}
+
+.buton{
+    background-color:#800000;
+    color :#fff;
+    font-style: normal;
+}

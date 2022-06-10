@@ -1,0 +1,30 @@
+body{
+    background-color: #8b4513;;
+}
+
+.tablo{
+    background-color: #deb887;
+    border: solid thin #000;
+}
+
+.button{
+    width :130px;
+    color :#000;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: none;
+    font-family:cursive;
+}
+
+.bttn{
+    background-color:#deb887;
+    border: solid thin ;
+    color: #8b4513;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: 18px;
+                
+}

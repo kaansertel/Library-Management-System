@@ -1,0 +1,32 @@
+body{
+    background-color: #ddc08bb0;
+}
+
+.msg{
+    border: 2px solid rgb(19, 17, 17);
+    background-color:#a08562;
+    width: 450px;
+    margin: auto;
+    margin-top:40px;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 15px;
+    text-align:center;
+    
+
+}
+
+.button{
+    
+    color: #4d1403; 
+    padding: 10px;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 18px;
+    
+
+ 
+}

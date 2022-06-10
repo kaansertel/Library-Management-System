@@ -1,0 +1,59 @@
+body{
+        
+    background-color: #ddc08bb0 ;
+}
+
+h2{
+    color: #4d1403;
+    font-size: 25px;
+    
+}
+
+.form{
+    border: 2px solid rgb(19, 17, 17);
+    background-color:#a08562;
+    width: 450px;
+    margin: auto;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 15px;
+        
+}
+.inpt{
+    border: solid thin rgb(61, 61, 61);
+    padding: 10px;
+    width: 200px;
+    height: 10px;
+    margin-top: 10px;   
+    background-color:#e9ddcfd5;
+}
+.button{
+    margin-left: 300px;
+    width :100px;
+    background-color:#800000;
+    color :#fff;
+    border-radius:25px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family:cursive;
+}
+.btn{
+    background-color:#aa9d8c;
+    border: solid thin ;
+    color: #460d05;
+    padding: 10px;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 40px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.baslik{
+    margin:auto;
+    margin-left: 750px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    
+
+}
